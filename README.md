@@ -4,9 +4,9 @@
 
 - [x]  Split your PDF catalog into ≤1,000-page parts (e.g., with PyPDF2).
 - [x]  Upload each part to Mistral Document AI.
-- [x]  Download and save each JSON result [1 of 7 tested]
-- [ ]  Write a Python script to extract course titles and descriptions from all JSONs.
-- [ ]  Save to a single CSV (e.g., `courses.csv`) with columns: `course_title`, `course_description`.
+- [x]  Download and save each JSON result 
+- [X]  Write a Python script to extract course titles and descriptions from all JSONs.
+- [x]  Save to a single CSV (e.g., `courses.csv`) with columns: `course_title`, `course_description`. [1 of 7!]
 
 ---
 
