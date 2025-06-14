@@ -9,7 +9,7 @@
 - [x]  Save to a single CSV (e.g., `courses.csv`) with columns: `course_title`, `course_description`. [1 of 7!]
 
 ---
-
+SKIPPED
 ### **2. Prepare the UM-CAI-Fellowship Code**
 
 - [ ]  Fork or clone [the repo](https://github.com/hughvd/UM-CAI-Fellowship) into your Replit or local workspace.
@@ -17,7 +17,7 @@
 - [ ]  Review sample input CSVs/notebooks to confirm expected format.
 
 ---
-
+MOVED TO GOOGLE COLAB
 ### **3. Adapt for Your Data and (if needed) Mistral APIs**
 
 - [ ]  Test their pipeline with your `courses.csv` as input.
@@ -29,7 +29,7 @@
 ---
 
 ### **4. Run and Validate**
-
+VALIDATED
 - [ ]  Run a sample query (e.g., “AI and ethics”) through the pipeline.
 - [ ]  Review and interpret the top recommended courses.
 - [ ]  Export or save results as CSV, and/or adapt for further use (reporting, UI, etc.).
