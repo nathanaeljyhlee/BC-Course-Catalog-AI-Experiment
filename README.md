@@ -2,7 +2,7 @@
 
 ### **1. Extract and Clean Course Data**
 
-- [x]  Split your PDF catalog into ≤1,000-page parts (e.g., with PyPDF2).
+- [x]  Split PDF catalog into ≤1,000-page parts (e.g., with PyPDF2).
 - [x]  Upload each part to Mistral Document AI.
 - [x]  Download and save each JSON result 
 - [X]  Write a Python script to extract course titles and descriptions from all JSONs.
