@@ -17,7 +17,7 @@ SKIPPED
 - [ ]  Review sample input CSVs/notebooks to confirm expected format.
 
 ---
-MOVED TO GOOGLE COLAB
+MOVED TO GOOGLE COLAB: https://colab.research.google.com/drive/1fi2Qx0-kREJVhHUSMPbcavM-dwVMUtNT#scrollTo=Z3YFAQa55-zP 
 ### **3. Adapt for Your Data and (if needed) Mistral APIs**
 
 - [ ]  Test their pipeline with your `courses.csv` as input.
